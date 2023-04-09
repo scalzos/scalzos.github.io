@@ -9,7 +9,7 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
   - title: this is a page
-    url: page
+    url: pages/page
 
         #  - title: posts by category
         #    post_list:
