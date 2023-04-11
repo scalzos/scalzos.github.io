@@ -3,12 +3,8 @@ layout: page
 title: page
 ---
 
-#### happy end!!
+#### happy end
 
-this is an example page:  
-
-  - just try something
-  - wow
-  - this seems to work
-  - just like
-  - an md file
+An interrupted party, an announced funeral, a delicate puzzle. 
+The numbered objects, as in a crime scene, emanate a grotesque irony, 
+something wrong happened in this ridiculous computer room.
