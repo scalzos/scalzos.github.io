@@ -1,6 +1,6 @@
 ---
-layout: page
-title: page
+layout: 
+title: Happy end
 ---
 
 #### happy end
