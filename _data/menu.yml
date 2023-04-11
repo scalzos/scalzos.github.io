@@ -9,25 +9,10 @@ entries:
       show_more_text: 
       show_more_url: archive.html
   - title: Happy end
-    url: pages/happy end
+    url: pages/happyend
 
-        #  - title: posts by category
-        #    post_list:
-        #      category: 1111
-        #      show_more: true
-        #      show_more_text: See more posts...
-        #      show_more_url: example2-archive.html
-        #
-        #  - title: rss
-        #    url: feed.xml
-        #  
-        #  - title: another list
-        #    entries:
-        #      - title: sweet night
-        #        entries:
-        #          - title: with subsubitems
-        #          - title: example page
-        #            url: about
-        #  - title: PRO TIP
-        #    entries:
-        #      - title: to edit this menu, edit _data/menu.yml file
+      - title: Brown stuff
+    url: pages/brownstuff
+    
+    - title: Cursed Office
+    url: pages/cursedoffice
