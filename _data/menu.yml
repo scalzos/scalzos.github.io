@@ -8,12 +8,12 @@ entries:
       show_more: true
       show_more_text: 
       show_more_url: archive.html
-  - title: works
-    url: pages/page
+  - title: Happy end
+    url: pages/happy end
 
         #  - title: posts by category
         #    post_list:
-        #      category: poesia
+        #      category: 1111
         #      show_more: true
         #      show_more_text: See more posts...
         #      show_more_url: example2-archive.html
@@ -23,7 +23,7 @@ entries:
         #  
         #  - title: another list
         #    entries:
-        #      - title: with subitems
+        #      - title: sweet night
         #        entries:
         #          - title: with subsubitems
         #          - title: example page
